@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "0YgeVyQB7M5wDZ5zkXidrRmCMCwd3pSG+JScQv6sOkZKc3VPswWn4eP9E4qbFh5Jd1JtR+2pU4soppK5W4c+Xw==",
+  "dgSpecHash": "u6g4XA5nqNwwe0z+be1Rmg9w812C7/yrhJcYUWbxpdJRdZ4VpAdcZRjQ0iL8r4kUJtbDwDWm/vOdzu/v9N1swQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sajja\\Desktop\\dotnetexample\\dotnetexample\\dotnetexample.csproj",
+  "projectFilePath": "/home/mohammad/w/sample-asp-net-core/dotnetexample/dotnetexample.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\sajja\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\sajja\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\sajja\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
-    "C:\\Users\\sajja\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
-    "C:\\Users\\sajja\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\sajja\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    "/home/mohammad/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/mohammad/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/mohammad/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/mohammad/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/mohammad/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/mohammad/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
   ],
   "logs": []
 }

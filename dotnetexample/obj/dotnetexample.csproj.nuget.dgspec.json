@@ -1,35 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sajja\\Desktop\\dotnetexample\\dotnetexample\\dotnetexample.csproj": {}
+    "/home/mohammad/w/sample-asp-net-core/dotnetexample/dotnetexample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sajja\\Desktop\\dotnetexample\\dotnetexample\\dotnetexample.csproj": {
+    "/home/mohammad/w/sample-asp-net-core/dotnetexample/dotnetexample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sajja\\Desktop\\dotnetexample\\dotnetexample\\dotnetexample.csproj",
+        "projectUniqueName": "/home/mohammad/w/sample-asp-net-core/dotnetexample/dotnetexample.csproj",
         "projectName": "dotnetexample",
-        "projectPath": "C:\\Users\\sajja\\Desktop\\dotnetexample\\dotnetexample\\dotnetexample.csproj",
-        "packagesPath": "C:\\Users\\sajja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sajja\\Desktop\\dotnetexample\\dotnetexample\\obj\\",
+        "projectPath": "/home/mohammad/w/sample-asp-net-core/dotnetexample/dotnetexample.csproj",
+        "packagesPath": "/home/mohammad/.nuget/packages/",
+        "outputPath": "/home/mohammad/w/sample-asp-net-core/dotnetexample/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\sajja\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/home/mohammad/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nexus.sainadev.ir/repository/nuget-hosted/index.json": {},
-          "https://nexus.sainadev.ir/repository/nuget.org-proxy/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -70,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }
