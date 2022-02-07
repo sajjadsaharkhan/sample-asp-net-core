@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ym1sGRnOZFvdlqDih7rm2xWqdZQXzxYWNRBItKMmUGU=",
+  "Source": "dotnetexample",
+  "BasePath": "_content/dotnetexample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
